@@ -1,0 +1,24 @@
+# Personal working notes (kept local, not published)
+CLAUDE.md
+docs/PROGRESS.md
+
+# Dependencies (recreated by `pnpm install`)
+node_modules/
+
+# Secrets
+.env
+
+# Build output
+dist/
+
+# Generated Prisma client (rebuilt by `prisma generate`)
+apps/api/src/generated/
+
+# Next.js
+apps/web/.next/
+apps/web/next-env.d.ts
+*.tsbuildinfo
+
+# Playwright
+apps/web/test-results/
+apps/web/playwright-report/

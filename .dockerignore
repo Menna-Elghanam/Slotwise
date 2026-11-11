@@ -1,0 +1,9 @@
+**/node_modules
+**/.env
+**/dist
+**/.next
+apps/api/src/generated
+.git
+.github
+docs
+CLAUDE.md
