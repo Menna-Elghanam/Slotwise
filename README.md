@@ -1,5 +1,7 @@
 # Booking Platform
 
+[![CI](https://github.com/Menna-Elghanam/Slotwise/actions/workflows/ci.yml/badge.svg)](https://github.com/Menna-Elghanam/Slotwise/actions/workflows/ci.yml)
+
 A booking platform for small businesses — barbers, clinics, tutors, gyms. Owners publish
 services, staff and working hours; customers see real free times, book, and pay with
 Stripe; staff manage their schedule.
